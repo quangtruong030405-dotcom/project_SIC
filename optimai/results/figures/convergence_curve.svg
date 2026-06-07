@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="460" viewBox="0 0 920 460">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<line x1="54" y1="406" x2="866" y2="406" stroke="#222"/>
+<line x1="54" y1="54" x2="54" y2="406" stroke="#222"/>
+<text x="460.0" y="28" text-anchor="middle" font-family="Arial" font-size="18">Best-so-far validation RMSE</text>
+<polyline fill="none" stroke="#1167b1" stroke-width="2.5" points="54.00,54.00 127.82,91.98 201.64,93.80 275.45,174.46 349.27,174.46 423.09,174.46 496.91,174.46 570.73,196.45 644.55,196.45 718.36,196.45 792.18,196.45 866.00,220.60"/>
+<text x="726" y="54" fill="#1167b1" font-family="Arial" font-size="14">MAVO-LSTM</text>
+<polyline fill="none" stroke="#c43d32" stroke-width="2.5" points="54.00,54.00 127.82,91.98 201.64,93.80 275.45,174.46 349.27,174.46 423.09,174.46 496.91,174.46 570.73,174.46 644.55,174.46 718.36,174.46 792.18,174.46 866.00,179.04"/>
+<text x="726" y="76" fill="#c43d32" font-family="Arial" font-size="14">PSO-LSTM</text>
+<polyline fill="none" stroke="#207245" stroke-width="2.5" points="54.00,54.00 127.82,91.98 201.64,93.80 275.45,174.46 349.27,174.46 423.09,240.19 496.91,406.00 570.73,406.00 644.55,406.00 718.36,406.00 792.18,406.00 866.00,406.00"/>
+<text x="726" y="98" fill="#207245" font-family="Arial" font-size="14">Random Search</text>
+</svg>

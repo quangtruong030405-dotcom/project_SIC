@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="460" viewBox="0 0 920 460">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<line x1="54" y1="406" x2="866" y2="406" stroke="#222"/>
+<line x1="54" y1="54" x2="54" y2="406" stroke="#222"/>
+<text x="460.0" y="28" text-anchor="middle" font-family="Arial" font-size="18">Test error distribution</text>
+<rect x="54.00" y="395.54" width="38.60" height="10.46" fill="#1167b1"/>
+<rect x="94.60" y="395.54" width="38.60" height="10.46" fill="#1167b1"/>
+<rect x="135.20" y="378.12" width="38.60" height="27.88" fill="#1167b1"/>
+<rect x="175.80" y="353.72" width="38.60" height="52.28" fill="#1167b1"/>
+<rect x="216.40" y="339.78" width="38.60" height="66.22" fill="#1167b1"/>
+<rect x="257.00" y="270.08" width="38.60" height="135.92" fill="#1167b1"/>
+<rect x="297.60" y="54.00" width="38.60" height="352.00" fill="#1167b1"/>
+<rect x="338.20" y="175.98" width="38.60" height="230.02" fill="#1167b1"/>
+<rect x="378.80" y="287.50" width="38.60" height="118.50" fill="#1167b1"/>
+<rect x="419.40" y="332.81" width="38.60" height="73.19" fill="#1167b1"/>
+<rect x="460.00" y="357.21" width="38.60" height="48.79" fill="#1167b1"/>
+<rect x="500.60" y="364.18" width="38.60" height="41.82" fill="#1167b1"/>
+<rect x="541.20" y="381.60" width="38.60" height="24.40" fill="#1167b1"/>
+<rect x="581.80" y="395.54" width="38.60" height="10.46" fill="#1167b1"/>
+<rect x="622.40" y="381.60" width="38.60" height="24.40" fill="#1167b1"/>
+<rect x="663.00" y="395.54" width="38.60" height="10.46" fill="#1167b1"/>
+<rect x="703.60" y="395.54" width="38.60" height="10.46" fill="#1167b1"/>
+<rect x="744.20" y="406.00" width="38.60" height="0.00" fill="#1167b1"/>
+<rect x="784.80" y="402.51" width="38.60" height="3.49" fill="#1167b1"/>
+<rect x="825.40" y="402.51" width="38.60" height="3.49" fill="#1167b1"/>
+</svg>
